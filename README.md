@@ -1,1 +1,1 @@
-# hoge fido-browser-support-option-site
+FIDO Browser Option List
