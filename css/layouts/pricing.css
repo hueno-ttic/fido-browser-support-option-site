@@ -60,10 +60,10 @@ p {
  */
 
 .banner {
-    background: transparent url('/image/header.jpg') 0 0 no-repeat fixed;
+    background: transparent url('https://hueno-ttic.github.io/fido-browser-support-option-site/image/header.jpg') 0 0 no-repeat fixed;
     text-align: center;
     background-size: cover;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/image/header.jpg', sizingMethod='scale');
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://hueno-ttic.github.io/fido-browser-support-option-site/image/header.jpg', sizingMethod='scale');
 
     margin-left: auto;
     margin-right: auto;
