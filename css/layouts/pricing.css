@@ -22,7 +22,9 @@ h2, h3 {
 .noborder {
     border: 0px!important;
 }
-
+.slim {
+    padding: 0px!important;
+}
 p {
     line-height: 1.6em;
 }
